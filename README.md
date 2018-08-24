@@ -1,2 +1,2 @@
 # SAP_HANA_dissector
-SAP HANA dissector for wireshark
+Wireshark dissector for SAP HANA
